@@ -1,0 +1,5 @@
+com/javasampleapproach/apachekafka/services/KafkaConsumer.class
+com/javasampleapproach/apachekafka/services/KafkaProducer.class
+com/javasampleapproach/apachekafka/storage/MessageStorage.class
+com/javasampleapproach/apachekafka/controller/WebRestController.class
+com/javasampleapproach/apachekafka/SpringBootApacheKafkaApplication.class

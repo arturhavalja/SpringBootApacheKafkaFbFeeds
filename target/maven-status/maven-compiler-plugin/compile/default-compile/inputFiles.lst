@@ -1,0 +1,5 @@
+/home/artur/NetBeansProjects/spring-social-facebook/SpringBootApacheKafka/src/main/java/com/javasampleapproach/apachekafka/controller/WebRestController.java
+/home/artur/NetBeansProjects/spring-social-facebook/SpringBootApacheKafka/src/main/java/com/javasampleapproach/apachekafka/SpringBootApacheKafkaApplication.java
+/home/artur/NetBeansProjects/spring-social-facebook/SpringBootApacheKafka/src/main/java/com/javasampleapproach/apachekafka/services/KafkaConsumer.java
+/home/artur/NetBeansProjects/spring-social-facebook/SpringBootApacheKafka/src/main/java/com/javasampleapproach/apachekafka/services/KafkaProducer.java
+/home/artur/NetBeansProjects/spring-social-facebook/SpringBootApacheKafka/src/main/java/com/javasampleapproach/apachekafka/storage/MessageStorage.java
